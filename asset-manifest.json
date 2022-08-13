@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.63170dba.css",
+    "main.js": "/business-card/static/js/main.218c1267.js",
+    "static/media/resize.jpeg": "/business-card/static/media/resize.f146188f91d624c32e89.jpeg",
+    "index.html": "/business-card/index.html",
+    "main.63170dba.css.map": "/business-card/static/css/main.63170dba.css.map",
+    "main.218c1267.js.map": "/business-card/static/js/main.218c1267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63170dba.css",
+    "static/js/main.218c1267.js"
+  ]
+}
